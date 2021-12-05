@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1638709433 source:c:\users\gaelle.payet\desktop\testcplusplus\main.cpp
+	<iostream>
+	<Person.h>
+	<Creature.h>
+	<Cat.h>
+	<iostream>
+	<stdio.h>
+	<String>
+	<new>
+
+1638709573 source:c:\users\gaelle.payet\desktop\testcplusplus\src\person.cpp
+	"Person.h"
+
+1638709565 c:\users\gaelle.payet\desktop\testcplusplus\include\person.h
+	<iostream>
+	<Creature.h>
+
+1638709433 c:\users\gaelle.payet\desktop\testcplusplus\include\creature.h
+	<iostream>
+
+1638707675 source:c:\users\gaelle.payet\desktop\testcplusplus\src\cat.cpp
+	"Cat.h"
+
+1638651215 c:\users\gaelle.payet\desktop\testcplusplus\include\cat.h
+	<iostream>
+	<Creature.h>
+
+1638709150 source:c:\users\gaelle.payet\desktop\testcplusplus\src\creature.cpp
+	"Creature.h"
+	"Cat.h"
+
